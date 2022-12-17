@@ -1,5 +1,7 @@
 # Chatroom-App
 
+This is a base CRM that i coded as a final project for the Network class during my undergraduate program at Westminster College. 
+
 Server[Server.java, Handler.java, Connection.java, BroadcastThread.java], Client[ReaderThread.java, ChatScreen.java]
 
 Runs via CRP 1.0 protocol
