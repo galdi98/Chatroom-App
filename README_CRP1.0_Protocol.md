@@ -1,6 +1,11 @@
 # Chatroom-App
 
- CHATROOM PROTOCOL
+Server[Server.java, Handler.java, Connection.java, BroadcastThread.java], Client[ReaderThread.java, ChatScreen.java]
+
+Runs via CRP 1.0 protocol
+run: Server.java and ChatScreen.java serverip username
+
+# CHATROOM PROTOCOL (CRP 1.0)
 
 
 Example protocol: https://datatracker.ietf.org/doc/html/rfc865 
